@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @CharlieEuler
 - 👀 I’m interested in reading and stuff idk
 - 🌱 I’m currently learning Java
-- 📫 How to reach me discord: kleinAsta
+- 📫 How to reach me:  discord: kleinAsta
 - 😄 Pronouns: they/them
 
 <!---
