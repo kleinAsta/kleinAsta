@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CharlieEuler
+- 👋 Hi, I’m Charlie
 - 👀 I’m interested in reading and stuff idk
 - 🌱 I’m currently learning Java
 - 📫 How to reach me:  discord: kleinAsta
