@@ -1,0 +1,10 @@
+- 👋 Hi, I’m @CharlieEuler
+- 👀 I’m interested in reading and stuff idk
+- 🌱 I’m currently learning Java
+- 📫 How to reach me discord: kleinAsta
+- 😄 Pronouns: they/them
+
+<!---
+CharlieEuler/CharlieEuler is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
