@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Charlie
-- 👀 I’m interested in reading and stuff idk
+- 👀 I’m interested in reading and pen and paper and stuff
 - 🌱 I’m currently learning Java
 - 📫 How to reach me:  discord: kleinAsta
 - 😄 Pronouns: they/them
